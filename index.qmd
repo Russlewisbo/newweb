@@ -1,0 +1,15 @@
+---
+title: "Russell E. Lewis"
+---
+
+![](Russ1.png){fig-align="center" width="315"}
+
+**Clinical Pharmacologist and Associate Professor of Medicine-Infectious Diseases**
+
+This site serves as a repository for teaching materials, lecture slides, and links to current research projects. <br> More information is available via my [University of Padua Webpage](https://www.unipd.it/contatti/rubrica?detail=Y&ruolo=1&checkout=cerca&persona=Lewis&key=7F6B3194E9D1AA6B33AE5DDA22979880) or from my [*curriculum vitae*](https://russlewisbo.github.io/markdown-cv/).\
+\
+Please follow the following link for my current [conflict of interest disclosures](https://drive.google.com/file/d/1JZ8pRfxSpeWRe8quEke7Kv3QEAUO8Jyl/view?usp=sharing).
+
+Professional photos can be downloaded [here](.  )
+
+Contact me: russelledward.lewis\@unipd.it
