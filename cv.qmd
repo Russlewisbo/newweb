@@ -3,8 +3,6 @@ layout: cv
 title: Curriculum Vitae
 ---
 ## Russell Edward Lewis
-I am an Associate Professor of Infectious Diseases in the Department of Molecular Medicine at the University of Padua and a clinical pharmacologist. I have over 25 years experience in laboratory and clinical research of antimicrobial and antifungal pharmacokinetic and pharmacodynamics in immunocompromised hosts. My current research focuses on the development and incorporation of prognostic risk models and decision/dosing support tools for fungal infections and multidrug resistant bacteria.
-
 <div id="webaddress">
 <a href="https://www.medicinamolecolare.unipd.it/category/ruoli/personale-docente?key=7F6B3194E9D1AA6B33AE5DDA22979880">UNIPD Webpage</a>
 | <a href="http://russlewisid.com">Personal website</a>
@@ -14,7 +12,7 @@ last updated: May 25, 2024
 
 ## Contact information
 
-(Office): Cia Gabelli 63, 35121 Padova <br>
+(Office): Via Gabelli 63, 35121 Padova <br>
 russelledward.lewis@unipd.it <br>
 
 (Home): Via Fortunato Venanzio, 60 <br>
