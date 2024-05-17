@@ -1,0 +1,49 @@
+---
+title: "Recent lectures"
+---
+
+## ESCMID Global 2024- Barcelona, Spain
+
+![](images/escmid.png){fig-align="left" width="250"}
+
+### Antifungal TDM-Current indications and practical implementation of precision dosing
+
+{{< fa file-powerpoint >}} [Link for powerpoint slides](tdm.pptx)
+
+## ECCMID 2023- Copenhagen, Denmark
+
+![](images/ECCMID2023.png){fig-align="left" width="250"}
+
+### Importance of nanomedicine in drug delivery
+
+{{< fa file-powerpoint >}} [Link for powerpoint slides](nano.pptx)
+
+## ECCMID 2022- Lisbon, Portugal
+
+![](images/ESCMID2022portugal.png){fig-align="left" width="250"}
+
+### Beyond antifungal MICs
+
+Many factors beyond the MIC can impact the activity of antifungal agents. In this talk, I provide an overview of the importance of fungicidal activity, how biofilms and persister cells contribute to resistance that is not measured by the MIC, and then address the challenged of understanding antifungal PK/PD for deep tissue infections.
+
+{{< fa folder-open >}} [Remark JS slides](https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide) <br> {{< fa brands github size=1x >}} [Code](https://github.com/Russlewisbo/ESCMID_2022_talk)
+
+------------------------------------------------------------------------
+
+### The Changing Landscape of Hematological Malignancy Treatment: Implications for antifungal therapy
+
+![](images/wbcs.jpg){fig-align="left" width="212"}
+
+The transformational changes in treatment for hematological malignancies has created new challenges for understanding the epidemiology, diagnosis and treatment of invasive fungal infections. Many small kinase inhibitors are metabolised by CYPP450 3A4 and have potential for QT prolongation, making concurrent use with frontline antifungals (triazoles) used for prophylaxis and treatment difficult. In this presentation we explore some of the key issues with newer therapies, and the potential emerging role of isavuconazole to improve the safety of triazole therapy when patients are receiving small molecule kinase inhibitors
+
+{{< fa folder-open >}} [Remark JS slides](https://russlewisbo.github.io/target_talk/avir%20talk.html#/the-changing-landscape-of-hematological-malignancy-treatment) <br> {{< fa brands github size=1x >}} [Code](https://github.com/Russlewisbo/target_talk)
+
+------------------------------------------------------------------------
+
+## Principles and Complexity of Antifungal Therapy
+
+![](images/MICtray.jpg){fig-align="left" width="252"}
+
+This introductory lecture is a companion to Oxford Textbook of Medical Mycology Chapter 45: Principles of Antifungal Therapy
+
+{{< fa folder-open >}} [Remark JS slides](https://russlewisbo.github.io/Exeter/Exeter.html#/principles-and-complexity-of-antifungal-therapy) <br> {{< fa brands github size=1x >}} [Code](https://github.com/Russlewisbo/Exeter)

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Russell Lewis - Russell E. Lewis</title>
+<title>Russell Lewis - Publications</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -94,17 +94,27 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">Who is Russell Lewis?</span></a>
+<span class="menu-text">Bio</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
-<span class="menu-text">Curriculum Vitae</span></a>
+<span class="menu-text">Curriculum vitae</span></a>
   </li>  
-  <li class="dropdown-header">
- <span class="menu-text">projects.qmd</span></li>
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Current projects</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./publications.html" aria-current="page"> 
-<span class="menu-text">Russell E. Lewis</span></a>
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./lectures.html"> 
+<span class="menu-text">Recent lectures</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -125,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Russell E. Lewis</h1>
+<h1 class="title">Publications</h1>
 </div>
 
 
@@ -142,17 +152,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Russ1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="315"></p>
-</figure>
-</div>
-<p><strong>Clinical Pharmacologist and Associate Professor of Medicine-Infectious Diseases</strong></p>
-<p>This site serves as a repository for teaching materials, lecture slides, and links to current research projects. <br> More information is available via my <a href="https://www.unipd.it/contatti/rubrica?detail=Y&amp;ruolo=1&amp;checkout=cerca&amp;persona=Lewis&amp;key=7F6B3194E9D1AA6B33AE5DDA22979880">University of Padua Webpage</a> or from my <a href="https://russlewisbo.github.io/markdown-cv/"><em>curriculum vitae</em></a>.<br>
-<br>
-Please follow the following link for my current <a href="https://drive.google.com/file/d/1JZ8pRfxSpeWRe8quEke7Kv3QEAUO8Jyl/view?usp=sharing">conflict of interest disclosures</a>.</p>
-<p>Professional photos can be downloaded <a href=".">here</a></p>
-<p>Contact me: russelledward.lewis@unipd.it</p>
+ <script src="https://bibbase.org/show?bib=https://bibbase.org/f/AzKkKFXRiZuwHcm4o/CV.bib&amp;jsonp=1"></script>
 
 
 
@@ -238,7 +238,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/russlewisid\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

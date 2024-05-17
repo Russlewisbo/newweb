@@ -11,6 +11,8 @@ website:
       - cv.qmd
       - projects.qmd
       - publications.qmd
+      - lectures.qmd
+      - teaching.qmd
 
 format:
   html:
