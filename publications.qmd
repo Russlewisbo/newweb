@@ -5,4 +5,3 @@ title: "Publications"
 ```{=html}
  <script src="https://bibbase.org/show?bib=https://bibbase.org/f/AzKkKFXRiZuwHcm4o/CV.bib&jsonp=1"></script>
 ```
-
