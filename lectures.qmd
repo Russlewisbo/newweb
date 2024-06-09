@@ -6,6 +6,8 @@ title: "Recent lectures"
 
 ![](images/escmid.png){fig-align="left" width="250"}
 
+![](images/barcelona.png){width="237"}
+
 ### Antifungal TDM-Current indications and practical implementation of precision dosing
 
 {{< fa file-powerpoint >}} [Link for powerpoint slides](tdm.pptx)
@@ -32,11 +34,13 @@ Many factors beyond the MIC can impact the activity of antifungal agents. In thi
 
 ### The Changing Landscape of Hematological Malignancy Treatment: Implications for antifungal therapy
 
+Updated June 24, 2024
+
 ![](images/wbcs.jpg){fig-align="left" width="212"}
 
 The transformational changes in treatment for hematological malignancies has created new challenges for understanding the epidemiology, diagnosis and treatment of invasive fungal infections. Many small kinase inhibitors are metabolised by CYPP450 3A4 and have potential for QT prolongation, making concurrent use with frontline antifungals (triazoles) used for prophylaxis and treatment difficult. In this presentation we explore some of the key issues with newer therapies, and the potential emerging role of isavuconazole to improve the safety of triazole therapy when patients are receiving small molecule kinase inhibitors
 
-{{< fa folder-open >}} [Remark JS slides](https://russlewisbo.github.io/target_talk/avir%20talk.html#/the-changing-landscape-of-hematological-malignancy-treatment) <br> {{< fa brands github size=1x >}} [Code](https://github.com/Russlewisbo/target_talk)
+{{< fa folder-open >}} [Remark JS slides](https://russlewisbo.github.io/target_talk/) <br> {{< fa brands github size=1x >}} [Code](https://github.com/Russlewisbo/target_talk)
 
 ------------------------------------------------------------------------
 
