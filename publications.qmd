@@ -2,6 +2,4 @@
 title: "Publications"
 ---
 
-```{=html}
- <script src="https://bibbase.org/show?bib=https://bibbase.org/f/a6GBPjh3wXfA46RXX/CV.bib"></script>
-```
+<iframe src="https://bibbase.org/show?bib=https://bibbase.org/f/a6GBPjh3wXfA46RXX/CV.bib" width="100%" height= "1200" ></iframe>
