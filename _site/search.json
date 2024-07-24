@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum vitae",
-    "section": "",
-    "text": "Click this link for a downloadable page"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Bio",
-    "section": "",
-    "text": "I am a clinical pharmacologist and Associate Professor of Medicine- Infectious Diseases (MED/17) in the Department of Molecular Medicine at the University of Padua. I was born and raised in the state of Kansas in the United States of America. I earned my Doctor of Pharmacy (Pharm.D.) degree from the University of Kansas, followed by post-graduate clinical residency training at Barnes-Jewish Hospital in St. Louis, Missouri. I then completed an infectious diseases research fellowship at the University of Iowa with a focus on antifungal pharmacology.\nI have over 25 years experience in the clinical care of immunocompromised patients and laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics. My current focus is on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria. I also serve as a Senior Pharmacokinetics/Pharmacodynamics Editor for the Journal of Antimicrobial Chemotherapy.\nOutside of work hours, my free time is spent with my wife Marta, son Marco, dog Luli …and on long bike rides following the Veneto strade sterrate."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Russell E. Lewis",
-    "section": "",
-    "text": "Clinical Pharmacologist and Associate Professor of Medicine-Infectious Diseases\nThis site serves as a repository for teaching materials, lecture slides, and links to current research projects.  More information is available via my University of Padua Webpage or from my curriculum vitae.\n\nPlease follow the following link for my current conflict of interest disclosures.\nContact me: russelledward.lewis@unipd.it"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -49,6 +28,27 @@
     "text": "Predicting Carbapenemase-Resistant Enterbacterales Infection after Liver Transplantation\nGiannella M, Freire M, Rinaldi M, Abdala E, Rubin A, Mularoni A, Gruttadauria S, Grossi P, Shbaklo N, Tandoi F, Ferrarese A, Burra P, Fernandes R, Aranha Camargo LF, Asensio A, Alagna L, Bandera A, Simkins J, Abbo L, Halpern M, Santana Girao E, Valerio M, Muñoz P, Fernandez Yunquera A, Statlender L, Yahav D, Franceschini E, Graziano E, Morelli MC, Cescon M, Viale P, Lewis R, CRECOLT study group. Development of a Risk Prediction Model for Carbapenem-resistant Enterobacteriaceae Infection After Liver Transplantation: A Multinational Cohort Study. Clin Infect Dis 2021; 73:e955–e966.\nAvailable at: http://dx.doi.org/10.1093/cid/ciab109.\n Online R Shiny Model\nA total of 840 LT recipients found to be colonized with CRE before (n = 203) or after (n = 637) LT were enrolled. CRE infection was diagnosed in 250 (29.7%) patients within 19 (interquartile range [IQR], 9–42) days after LT. Pre- and post-LT colonization, multisite post-LT colonization, prolonged mechanical ventilation, acute renal injury, and surgical reintervention were retained in the prediction model. Median 30- and 60-day predicted risk was 15% (IQR, 11–24) and 21% (IQR, 15–33), respectively. Discrimination and prediction accuracy for CRE infection was acceptable on derivation (area under the curve [AUC], 74.6; Brier index, 16.3) and bootstrapped validation dataset (AUC, 73.9; Brier index, 16.6). Decision-curve analysis suggested net benefit of model-directed intervention over default strategies (treat all, treat none) when CRE infection probability exceeded 10%."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Russell E. Lewis",
+    "section": "",
+    "text": "Clinical Pharmacologist and Associate Professor of Medicine-Infectious Diseases\nThis site serves as a repository for teaching materials, lecture slides, and links to current research projects.  More information is available via my University of Padua Webpage or from my curriculum vitae.\n\nPlease follow the following link for my current conflict of interest disclosures.\nContact me: russelledward.lewis@unipd.it"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Bio",
+    "section": "",
+    "text": "I am a clinical pharmacologist and Associate Professor of Medicine- Infectious Diseases (MED/17) in the Department of Molecular Medicine at the University of Padua. I was born and raised in the state of Kansas in the United States of America. I earned my Doctor of Pharmacy (Pharm.D.) degree from the University of Kansas, followed by post-graduate clinical residency training at Barnes-Jewish Hospital in St. Louis, Missouri. I then completed an infectious diseases research fellowship at the University of Iowa with a focus on antifungal pharmacology.\nI have over 25 years experience in the clinical care of immunocompromised patients and laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics. My current focus is on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria. I also serve as a Senior Pharmacokinetics/Pharmacodynamics Editor for the Journal of Antimicrobial Chemotherapy.\nOutside of work hours, my free time is spent with my wife Marta, son Marco, dog Luli …and on long bike rides following the Veneto strade sterrate."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Click this link for a downloadable page"
+  },
+  {
     "objectID": "lectures.html",
     "href": "lectures.html",
     "title": "Recent lectures",
@@ -74,7 +74,7 @@
     "href": "lectures.html#eccmid-2022--lisbon-portugal",
     "title": "Recent lectures",
     "section": "ECCMID 2022- Lisbon, Portugal",
-    "text": "ECCMID 2022- Lisbon, Portugal\n\n\n\n\n\n\nBeyond antifungal MICs\nMany factors beyond the MIC can impact the activity of antifungal agents. In this talk, I provide an overview of the importance of fungicidal activity, how biofilms and persister cells contribute to resistance that is not measured by the MIC, and then address the challenged of understanding antifungal PK/PD for deep tissue infections.\n Remark JS slides   Code\n\n\n\nThe Changing Landscape of Hematological Malignancy Treatment: Implications for antifungal therapy\n\n\n\n\n\nThe transformational changes in treatment for hematological malignancies has created new challenges for understanding the epidemiology, diagnosis and treatment of invasive fungal infections. Many small kinase inhibitors are metabolised by CYPP450 3A4 and have potential for QT prolongation, making concurrent use with frontline antifungals (triazoles) used for prophylaxis and treatment difficult. In this presentation we explore some of the key issues with newer therapies, and the potential emerging role of isavuconazole to improve the safety of triazole therapy when patients are receiving small molecule kinase inhibitors\n Remark JS slides   Code"
+    "text": "ECCMID 2022- Lisbon, Portugal\n\n\n\n\n\n\nBeyond antifungal MICs\nMany factors beyond the MIC can impact the activity of antifungal agents. In this talk, I provide an overview of the importance of fungicidal activity, how biofilms and persister cells contribute to resistance that is not measured by the MIC, and then address the challenged of understanding antifungal PK/PD for deep tissue infections.\n Remark JS slides   Code\n\n\n\nThe Changing Landscape of Hematological Malignancy Treatment: Implications for antifungal therapy\nUpdated June 24, 2024\n\n\n\n\n\nThe transformational changes in treatment for hematological malignancies has created new challenges for understanding the epidemiology, diagnosis and treatment of invasive fungal infections. Many small kinase inhibitors are metabolised by CYPP450 3A4 and have potential for QT prolongation, making concurrent use with frontline antifungals (triazoles) used for prophylaxis and treatment difficult. In this presentation we explore some of the key issues with newer therapies, and the potential emerging role of isavuconazole to improve the safety of triazole therapy when patients are receiving small molecule kinase inhibitors\n Remark JS slides   Code"
   },
   {
     "objectID": "lectures.html#principles-and-complexity-of-antifungal-therapy",
