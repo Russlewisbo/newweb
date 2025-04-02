@@ -2,6 +2,26 @@
 title: "Recent lectures"
 ---
 
+![](images/roma_tdm.png){width="421"}
+
+## Navigating the maze: Antifungal drug interactions in the era of targeted cancer therapy
+
+## April 1, Rome, Italy
+
+{{< fa file-powerpoint >}} [Link for powerpoint slides](roma_di.pptx)
+
+![](images/epag.png)
+
+## PK/PD of Anti-Infective Study Group Webinar
+
+## Posaconazole TMD: Precision vs. pragmatism
+
+Antifungal TDM <br>
+
+Given with Roger Brüggemann <br>
+
+{{< fa folder-open >}} [Remark JS slides](https://russlewisbo.github.io/EPAG/Lecture1.html#/posaconazole-therapeutic-drug-monitoring-precision-vs.-pragmatism) <br> {{< fa brands github size=1x >}} [Code](https://github.com/Russlewisbo/EPAG.git)
+
 ## ESCMID Global 2024- Barcelona, Spain
 
 ![](images/escmid.png){fig-align="left" width="250"}
