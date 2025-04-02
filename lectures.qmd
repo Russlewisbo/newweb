@@ -2,23 +2,23 @@
 title: "Recent lectures"
 ---
 
-![](images/roma_tdm.png){width="421"}
-
 ## Navigating the maze: Antifungal drug interactions in the era of targeted cancer therapy
 
-## April 1, Rome, Italy
+![](images/roma_tdm.png){width="385"}
+
+## PK/PD of Anti-Infective Study Group Webinar
+
+**April 1, Rome, Italy**
 
 {{< fa file-powerpoint >}} [Link for powerpoint slides](roma_di.pptx)
 
 ![](images/epag.png)
 
-## PK/PD of Anti-Infective Study Group Webinar
+**Posaconazole TMD: Precision vs. pragmatism**
 
-## Posaconazole TMD: Precision vs. pragmatism
+**Antifungal TDM** <br>
 
-Antifungal TDM <br>
-
-Given with Roger Brüggemann <br>
+**Given with Roger Brüggemann** <br>
 
 {{< fa folder-open >}} [Remark JS slides](https://russlewisbo.github.io/EPAG/Lecture1.html#/posaconazole-therapeutic-drug-monitoring-precision-vs.-pragmatism) <br> {{< fa brands github size=1x >}} [Code](https://github.com/Russlewisbo/EPAG.git)
 
@@ -28,7 +28,7 @@ Given with Roger Brüggemann <br>
 
 ![](images/barcelona.png){width="237"}
 
-### Antifungal TDM-Current indications and practical implementation of precision dosing
+**Antifungal TDM-Current indications and practical implementation of precision dosing**
 
 {{< fa file-powerpoint >}} [Link for powerpoint slides](tdm.pptx)
 
@@ -36,7 +36,7 @@ Given with Roger Brüggemann <br>
 
 ![](images/ECCMID2023.png){fig-align="left" width="250"}
 
-### Importance of nanomedicine in drug delivery
+**Importance of nanomedicine in drug delivery**
 
 {{< fa file-powerpoint >}} [Link for powerpoint slides](nano.pptx)
 
@@ -44,7 +44,7 @@ Given with Roger Brüggemann <br>
 
 ![](images/ESCMID2022portugal.png){fig-align="left" width="250"}
 
-### Beyond antifungal MICs
+**Beyond antifungal MICs**
 
 Many factors beyond the MIC can impact the activity of antifungal agents. In this talk, I provide an overview of the importance of fungicidal activity, how biofilms and persister cells contribute to resistance that is not measured by the MIC, and then address the challenged of understanding antifungal PK/PD for deep tissue infections.
 
