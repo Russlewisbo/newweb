@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F62ANpT3FHgBW5Z7ng&amp;noBootstrap=1" width="1000" height="600">
+<iframe src="https://bibbase.org/show?bib=https://bibbase.org/f/a6GBPjh3wXfA46RXX/scopus_new.bib" width="1000" height="1000">
 
 > 
 
