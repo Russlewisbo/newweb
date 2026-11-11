@@ -8,4 +8,3 @@ Click this [link](https://russlewisbo.github.io/markdown-cv/) for a downloadable
 ```{=html}
 <iframe width="900" height="1200" src="https://russlewisbo.github.io/markdown-cv/"></iframe>
 ```
-
