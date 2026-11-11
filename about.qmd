@@ -17,8 +17,8 @@ Outside of work hours, my free time is spent with my wife Marta, son Marco, our 
 ::: {.column width="25%"}
 <br>
 
-<br>
+![](Russ_formal.png){fig-align="center" width="350"}
 
-![](rlewis_headshot.png){fig-align="center" width="450"}
+<br>
 :::
 ::::::

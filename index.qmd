@@ -1,13 +1,29 @@
 ---
-
+pagetitle: "Russell Lewis"
+title-block-style: none
+toc: false
 ---
 
-![](rlewis_headshot.png){fig-align="center" width="400"}
+![](rlewis_headshot.png){fig-align="center" width="300"}
 
+<center> 
 **Clinical Pharmacologist and Associate Professor of Medicine-Infectious Diseases**
 
-This site serves as a repository for teaching materials, lecture slides, and links to current research projects. <br> More information is available via my [University of Padua Webpage](https://www.unipd.it/contatti/russelledward.lewis) or from my [*curriculum vitae*](https://russlewisbo.github.io/markdown-cv/).\
-\
+</center> 
+<br> 
+This site serves as a repository for teaching materials, lecture slides, and links to current research projects. <br>
+More information is available via my [University of Padua Webpage](https://www.unipd.it/contatti/russelledward.lewis) or from my [*curriculum vitae*](https://russlewisbo.github.io/markdown-cv/).  <br>
+
+Current projects and source code can also be found here:
+
+<center>
+![](images/lewis-lab-icon.png){width="100"} <br>
+[Lewis ID Lab](https://lewis-id-lab.github.io/)
 
 
-Contact me: russelledward.lewis\@unipd.it
+<br> <br>
+
+
+Contact me: [russelledward.lewis\@unipd.it](russelledward.lewis\@unipd.it)
+
+</center>
