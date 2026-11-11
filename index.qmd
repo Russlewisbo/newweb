@@ -2,7 +2,7 @@
 title: "Russell E. Lewis"
 ---
 
-![](Russ1.png){fig-align="center" width="315"}
+![](rlewis_headshot.png){fig-align="center" width="400"}
 
 **Clinical Pharmacologist and Associate Professor of Medicine-Infectious Diseases**
 
